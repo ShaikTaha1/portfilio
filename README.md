@@ -69,6 +69,16 @@ I am a results-driven **System Administrator** with a strong track record of man
 Northeastern University, Toronto, ON  
 *Relevant Coursework: Network Security, Cloud Computing, Database Management, System Administration*
 
+### 📊 GitHub Stats
+![Taha Shaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikTaha1&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShaikTaha1&theme=radical)
+
+### 🔝 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikTaha1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 Feel free to explore my [GitHub repositories](https://github.com/ShaikTaha1) and reach out for collaboration or freelance opportunities!
 
